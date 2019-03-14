@@ -1,0 +1,6 @@
+This repository is for building a Go distribution with patches to use
+netrc for authenticating go-get requests. Its Dockerfile is derived from
+the Docker library golang repository's.
+
+Use of this repository, Dockerfile, or the Go branch it uses cannot be
+guaranteed to be free of bugs or other issues.
